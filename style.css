@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(141, 221, 241);
+}
+
+h1 {
+color:blueviolet;
+text-align: center;
+
+}
+h1:hover{
+    color: rgb(148, 241, 42);
+}
+p {
+    font-size: 30px;
+
+
+}
